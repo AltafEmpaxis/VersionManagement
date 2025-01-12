@@ -8,7 +8,7 @@ const __dirname = dirname(__filename);
 class VersionManager {
   constructor() {
     this.versionFilePath = join(__dirname, "../src/versionData.json");
-    this.releaseLogsPath = join(__dirname, "../ReleaseLogs.md");
+    this.releaseLogsPath = join(__dirname, "../RELEASELOGS.md");
     this.versionData = this.loadVersionData();
     this.environmentConfigs = {
       dev: {
