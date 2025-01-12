@@ -242,13 +242,42 @@ function VersionGuide() {
                   For detailed documentation, configuration options, and best
                   practices, please check our{" "}
                   <Link
-                    href="https://github.com/yourusername/your-repo/blob/main/README.md"
+                    href="https://github.com/AltafEmpaxis/VersionManagement/blob/main/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     README.md
                   </Link>{" "}
                   file.
+                </Typography>
+              </Alert>
+              <Alert severity="info" sx={{ mt: 2 }}>
+                <Typography>
+                  View our{" "}
+                  <Link
+                    href="https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Release History
+                  </Link>{" "}
+                  or visit the{" "}
+                  <Link
+                    href="https://version-management.vercel.app"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Live Demo
+                  </Link>
+                  . For issues or contributions, please visit our{" "}
+                  <Link
+                    href="https://github.com/AltafEmpaxis/VersionManagement"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    GitHub Repository
+                  </Link>
+                  .
                 </Typography>
               </Alert>
             </Grid>
