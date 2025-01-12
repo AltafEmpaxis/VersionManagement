@@ -1,7 +1,7 @@
 {
   "app": {
     "currentVersion": "0.0.0",
-    "lastUpdated": "2025-01-12T10:47:18.235Z",
+    "lastUpdated": "2025-01-12T10:50:31.053Z",
     "updatedBy": "System",
     "activeEnvironment": "dev",
     "previousVersions": []
@@ -9,25 +9,25 @@
   "environments": {
     "dev": {
       "version": "0.0.0-dev",
-      "lastUpdated": "2025-01-12T10:47:18.238Z",
+      "lastUpdated": "2025-01-12T10:50:31.056Z",
       "deployedBy": "System",
       "changelog": []
     },
     "qa": {
       "version": "0.0.0-qa",
-      "lastUpdated": "2025-01-12T10:47:18.238Z",
+      "lastUpdated": "2025-01-12T10:50:31.056Z",
       "deployedBy": "System",
       "changelog": []
     },
     "uat": {
       "version": "0.0.0-uat",
-      "lastUpdated": "2025-01-12T10:47:18.238Z",
+      "lastUpdated": "2025-01-12T10:50:31.056Z",
       "deployedBy": "System",
       "changelog": []
     },
     "prod": {
       "version": "0.0.0",
-      "lastUpdated": "2025-01-12T10:47:18.238Z",
+      "lastUpdated": "2025-01-12T10:50:31.056Z",
       "deployedBy": "System",
       "changelog": []
     }
