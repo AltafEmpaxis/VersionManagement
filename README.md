@@ -1,16 +1,16 @@
 ## Repository files navigation
 
-- [README](https://github.com/AltafEmpaxis/VersionManagement?tab=readme-ov-file)
-- [MIT license](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
-- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=RELEASELOGS-1-ov-file)
+- [README](https://github.com/AltafEmpaxis/VersionManagement/blob/main/README.md)
+- [MIT license](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
+- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
 
 # Version Management System
 
 A robust version management system for tracking software releases across different environments.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-ReleaseLogs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=RELEASELOGS-ov-file)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
 [![Deployment](https://img.shields.io/badge/deployment-Vercel-black.svg)](https://version-management.vercel.app)
 
 ## 📋 Table of Contents
@@ -320,9 +320,9 @@ npm run clear:versions
 
 ## 📝 Release Logs
 
-View our detailed release history in our [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=RELEASELOGS-ov-file) file.
+View our detailed release history in our [Release Logs](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md) file.
 
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=RELEASELOGS-ov-file)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
 
 The release logs include:
 
@@ -341,14 +341,14 @@ Type: system
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE) file for details.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
 
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/AltafEmpaxis/VersionManagement)
-- [Documentation](https://github.com/AltafEmpaxis/VersionManagement?tab=readme-ov-file)
-- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=RELEASELOGS-ov-file)
-- [License](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
+- [Documentation](https://github.com/AltafEmpaxis/VersionManagement/blob/main/README.md)
+- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
+- [License](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
 - [Report Issues](https://github.com/AltafEmpaxis/VersionManagement/issues)
