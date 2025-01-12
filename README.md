@@ -3,8 +3,8 @@
 A robust version management system for tracking software releases across different environments.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-ReleaseLogs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](ReleaseLogs.md)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=ReleaseLogs-ov-file)
 [![Deployment](https://img.shields.io/badge/deployment-Vercel-black.svg)](https://version-management.vercel.app)
 
 ## 📋 Table of Contents
@@ -342,7 +342,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/AltafEmpaxis/VersionManagement)
-- [Live Demo](https://version-management.vercel.app)
-- [Release Logs](ReleaseLogs.md)
+- [Documentation](https://github.com/AltafEmpaxis/VersionManagement?tab=readme-ov-file)
+- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=ReleaseLogs-ov-file)
+- [License](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
 - [Report Issues](https://github.com/AltafEmpaxis/VersionManagement/issues)
-- [Documentation](https://github.com/AltafEmpaxis/VersionManagement#readme)
