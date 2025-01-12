@@ -4,7 +4,8 @@ A robust version management system for tracking software releases across differe
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-ReleaseLogs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Deployment](https://img.shields.io/badge/deployment-Vercel-black.svg)](https://release-logs.vercel.app)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](ReleaseLogs.md)
+[![Deployment](https://img.shields.io/badge/deployment-Vercel-black.svg)](https://version-management.vercel.app)
 
 ## 📋 Table of Contents
 
@@ -313,9 +314,9 @@ npm run clear:versions
 
 ## 📝 Release Logs
 
-View our detailed release history in our [Release Logs](./ReleaseLogs.md) file.
+View our detailed release history in our [Release Logs](ReleaseLogs.md) file.
 
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](./ReleaseLogs.md)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](ReleaseLogs.md)
 
 The release logs include:
 
@@ -341,6 +342,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/AltafEmpaxis/VersionManagement)
-- [Live Demo](https://release-logs.vercel.app)
+- [Live Demo](https://version-management.vercel.app)
+- [Release Logs](ReleaseLogs.md)
 - [Report Issues](https://github.com/AltafEmpaxis/VersionManagement/issues)
 - [Documentation](https://github.com/AltafEmpaxis/VersionManagement#readme)
