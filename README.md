@@ -140,6 +140,8 @@ npm run release:minor "New features"
 npm run release:major "Breaking changes"
 npm run release:hotfix "Emergency fix"
 
+npm run version:prod major "Bug fix"
+
 # Build for production
 npm run build:prod
 ```

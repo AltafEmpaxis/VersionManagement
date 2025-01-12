@@ -1,23 +1,71 @@
 {
   "app": {
-    "currentVersion": "0.0.0",
-    "lastUpdated": "2025-01-12T09:33:18.822Z",
-    "updatedBy": "System",
-    "activeEnvironment": "dev",
-    "previousVersions": []
+    "currentVersion": "2.0.0",
+    "lastUpdated": "2025-01-12T10:15:28.099Z",
+    "updatedBy": "Altaf151",
+    "activeEnvironment": "prod",
+    "previousVersions": [
+      {
+        "version": "1.0.0",
+        "date": "2025-01-12T10:15:28.099Z",
+        "environment": "prod",
+        "updatedBy": "Altaf151"
+      },
+      {
+        "version": "0.0.2",
+        "date": "2025-01-12T10:15:18.239Z",
+        "environment": "prod",
+        "updatedBy": "Altaf151"
+      },
+      {
+        "version": "0.0.1",
+        "date": "2025-01-12T10:14:17.655Z",
+        "environment": "prod",
+        "updatedBy": "Altaf151"
+      },
+      {
+        "version": "0.0.0",
+        "date": "2025-01-12T10:04:40.161Z",
+        "environment": "prod",
+        "updatedBy": "Altaf151"
+      }
+    ]
   },
   "environments": {
     "dev": {
-      "version": "0.0.0-dev",
-      "lastUpdated": "2025-01-12T09:33:18.823Z",
-      "deployedBy": "System",
-      "changelog": []
+      "version": "0.0.2-dev",
+      "lastUpdated": "2025-01-12T10:10:13.941Z",
+      "deployedBy": "Altaf151",
+      "changelog": [
+        {
+          "version": "0.0.2-dev",
+          "type": "patch",
+          "date": "2025-01-12T10:10:13.941Z",
+          "message": "patch update",
+          "deployedBy": "Altaf151"
+        },
+        {
+          "version": "0.0.1-dev",
+          "type": "patch",
+          "date": "2025-01-12T09:59:21.408Z",
+          "message": "patch update",
+          "deployedBy": "Altaf151"
+        }
+      ]
     },
     "qa": {
-      "version": "0.0.0-qa",
-      "lastUpdated": "2025-01-12T09:33:18.823Z",
-      "deployedBy": "System",
-      "changelog": []
+      "version": "0.0.1-qa",
+      "lastUpdated": "2025-01-12T09:59:28.893Z",
+      "deployedBy": "Altaf151",
+      "changelog": [
+        {
+          "version": "0.0.1-qa",
+          "type": "patch",
+          "date": "2025-01-12T09:59:28.893Z",
+          "message": "patch update",
+          "deployedBy": "Altaf151"
+        }
+      ]
     },
     "uat": {
       "version": "0.0.0-uat",
@@ -26,10 +74,39 @@
       "changelog": []
     },
     "prod": {
-      "version": "0.0.0",
-      "lastUpdated": "2025-01-12T09:33:18.823Z",
-      "deployedBy": "System",
-      "changelog": []
+      "version": "2.0.0",
+      "lastUpdated": "2025-01-12T10:15:28.099Z",
+      "deployedBy": "Altaf151",
+      "changelog": [
+        {
+          "version": "2.0.0",
+          "type": "major",
+          "date": "2025-01-12T10:15:28.099Z",
+          "message": "Bug fix",
+          "deployedBy": "Altaf151"
+        },
+        {
+          "version": "1.0.0",
+          "type": "major",
+          "date": "2025-01-12T10:15:18.239Z",
+          "message": "Bug fix",
+          "deployedBy": "Altaf151"
+        },
+        {
+          "version": "0.0.2",
+          "type": "patch",
+          "date": "2025-01-12T10:14:17.655Z",
+          "message": "Bug fix",
+          "deployedBy": "Altaf151"
+        },
+        {
+          "version": "0.0.1",
+          "type": "patch",
+          "date": "2025-01-12T10:04:40.161Z",
+          "message": "Regular production update",
+          "deployedBy": "Altaf151"
+        }
+      ]
     }
   },
   "config": {
