@@ -8,9 +8,9 @@
 
 A robust version management system for tracking software releases across different environments.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-ReleaseLogs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-AltafEmpaxis-blue.svg)](https://github.com/AltafEmpaxis)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Altaf-orange.svg)](https://altaf-portfolio.netlify.app/)
 [![Deployment](https://img.shields.io/badge/deployment-Vercel-black.svg)](https://version-management.vercel.app)
 
 ## 📋 Table of Contents
@@ -347,8 +347,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/AltafEmpaxis/VersionManagement)
+- [GitHub Profile](https://github.com/AltafEmpaxis)
+- [Portfolio](https://altaf-portfolio.netlify.app/)
 - [Documentation](https://github.com/AltafEmpaxis/VersionManagement/blob/main/README.md)
 - [Release Logs](https://github.com/AltafEmpaxis/VersionManagement/blob/main/RELEASELOGS.md)
 - [License](https://github.com/AltafEmpaxis/VersionManagement/blob/main/LICENSE)
+- [Live Demo](https://version-management.vercel.app)
 - [Report Issues](https://github.com/AltafEmpaxis/VersionManagement/issues)
