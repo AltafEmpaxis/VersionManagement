@@ -314,9 +314,9 @@ npm run clear:versions
 
 ## 📝 Release Logs
 
-View our detailed release history in our [Release Logs](ReleaseLogs.md) file.
+View our detailed release history in our [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=ReleaseLogs-ov-file) file.
 
-[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](ReleaseLogs.md)
+[![Release Logs](https://img.shields.io/badge/Release-Logs-blue.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=ReleaseLogs-ov-file)
 
 The release logs include:
 
@@ -335,9 +335,9 @@ Type: system
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file) file for details.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
 
 ## 🔗 Links
 
