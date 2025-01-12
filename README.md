@@ -1,3 +1,9 @@
+## Repository files navigation
+
+- [README](https://github.com/AltafEmpaxis/VersionManagement?tab=readme-ov-file)
+- [MIT license](https://github.com/AltafEmpaxis/VersionManagement?tab=MIT-1-ov-file)
+- [Release Logs](https://github.com/AltafEmpaxis/VersionManagement?tab=ReleaseLogs-ov-file)
+
 # Version Management System
 
 A robust version management system for tracking software releases across different environments.
