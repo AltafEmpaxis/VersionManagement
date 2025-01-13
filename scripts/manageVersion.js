@@ -1,6 +1,7 @@
-import { readFileSync, writeFileSync, appendFileSync } from "fs";
-import { fileURLToPath } from "url";
-import { dirname, join } from "path";
+/* global process */
+import { readFileSync, writeFileSync, appendFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import { dirname, join } from "node:path";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -214,6 +215,9 @@ class VersionManager {
     env.lastUpdated = timestamp;
     env.deployedBy = user;
 
+    // Update app-level activeEnvironment for any environment update
+    this.versionData.app.activeEnvironment = environment;
+
     if (type || message) {
       const changelogEntry = {
         version: newVersion,
@@ -237,12 +241,11 @@ class VersionManager {
       }
     }
 
-    // Update app-level information for production releases
+    // Update additional app-level information for production releases
     if (environment === "prod") {
       this.versionData.app.currentVersion = newVersion;
       this.versionData.app.lastUpdated = timestamp;
       this.versionData.app.updatedBy = user;
-      this.versionData.app.activeEnvironment = environment;
 
       const historyEntry = {
         version: currentVersion,
@@ -391,12 +394,12 @@ function main() {
 
   try {
     if (command === "clear") {
-      const result = manager.clearVersionData();
+      const resetResult = manager.clearVersionData();
       console.log(`
 ✅ Version System Reset Complete
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Version Data: Reset to 0.0.0
-• Release Logs: Reinitialized
+• Version Data: ${resetResult.details.versionData}
+• Release Logs: ${resetResult.details.releaseLogs}
 • Timestamp: ${new Date().toLocaleString()}
 
 All environments have been reset to their initial state.

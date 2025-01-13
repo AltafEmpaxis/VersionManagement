@@ -1,13 +1,13 @@
 {
   "app": {
-    "currentVersion": "1.0.0",
-    "lastUpdated": "2025-01-12T11:06:27.878Z",
+    "currentVersion": "0.1.0",
+    "lastUpdated": "2025-01-13T08:17:21.946Z",
     "updatedBy": "Altaf151",
     "activeEnvironment": "prod",
     "previousVersions": [
       {
         "version": "0.0.0",
-        "date": "2025-01-12T11:06:27.878Z",
+        "date": "2025-01-13T08:17:21.946Z",
         "environment": "prod",
         "updatedBy": "Altaf151"
       }
@@ -15,64 +15,71 @@
   },
   "environments": {
     "dev": {
-      "version": "0.0.2-dev",
-      "lastUpdated": "2025-01-12T11:05:03.474Z",
+      "version": "0.1.0-dev",
+      "lastUpdated": "2025-01-13T08:16:59.108Z",
       "deployedBy": "Altaf151",
       "changelog": [
         {
-          "version": "0.0.2-dev",
-          "type": "patch",
-          "date": "2025-01-12T11:05:03.474Z",
-          "message": "patch update",
-          "deployedBy": "Altaf151"
-        },
-        {
-          "version": "0.0.1-dev",
-          "type": "patch",
-          "date": "2025-01-12T11:04:59.129Z",
-          "message": "patch update",
+          "version": "0.1.0-dev",
+          "type": "minor",
+          "date": "2025-01-13T08:16:59.108Z",
+          "message": "User authentication",
           "deployedBy": "Altaf151"
         }
       ]
     },
     "qa": {
-      "version": "0.0.1-qa",
-      "lastUpdated": "2025-01-12T11:05:10.223Z",
+      "version": "0.2.0-qa",
+      "lastUpdated": "2025-01-13T08:15:41.752Z",
       "deployedBy": "Altaf151",
       "changelog": [
         {
-          "version": "0.0.1-qa",
-          "type": "patch",
-          "date": "2025-01-12T11:05:10.223Z",
-          "message": "patch update",
+          "version": "0.2.0-qa",
+          "type": "minor",
+          "date": "2025-01-13T08:15:41.752Z",
+          "message": "Auth ready for testing",
+          "deployedBy": "Altaf151"
+        },
+        {
+          "version": "0.1.0-qa",
+          "type": "minor",
+          "date": "2025-01-13T08:15:24.970Z",
+          "message": "Auth sdafafafafafafa aaaaaaltaf",
           "deployedBy": "Altaf151"
         }
       ]
     },
     "uat": {
-      "version": "1.0.0-uat",
-      "lastUpdated": "2025-01-12T11:05:44.186Z",
+      "version": "1.1.0-uat",
+      "lastUpdated": "2025-01-13T08:16:35.750Z",
       "deployedBy": "Altaf151",
       "changelog": [
         {
+          "version": "1.1.0-uat",
+          "type": "minor",
+          "date": "2025-01-13T08:16:35.750Z",
+          "message": "Auth for client review",
+          "deployedBy": "Altaf151"
+        },
+        {
           "version": "1.0.0-uat",
           "type": "major",
-          "date": "2025-01-12T11:05:44.186Z",
-          "message": "Breaking change",
+          "date": "2025-01-13T08:14:58.470Z",
+          "message": "Auth ready for testing aaaaaaaaaaaaltaf",
           "deployedBy": "Altaf151"
         }
       ]
     },
     "prod": {
-      "version": "1.0.0",
-      "lastUpdated": "2025-01-12T11:06:27.878Z",
+      "version": "0.1.0",
+      "lastUpdated": "2025-01-13T08:17:21.946Z",
       "deployedBy": "Altaf151",
       "changelog": [
         {
-          "version": "1.0.0",
-          "type": "major",
-          "date": "2025-01-12T11:06:27.878Z",
-          "message": "Bug fix prod",
+          "version": "0.1.0",
+          "type": "minor",
+          "date": "2025-01-13T08:17:21.946Z",
+          "message": "User authentication all fixed ",
           "deployedBy": "Altaf151"
         }
       ]
